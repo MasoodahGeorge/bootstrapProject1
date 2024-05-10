@@ -1,0 +1,10 @@
+/*NAV SECTION*/
+.navbar-nav {
+    gap: 20px;
+    padding: 20px;
+    color: rgb(255, 204, 0);
+}
+
+.navbar {
+    background-color: #130048;
+}
